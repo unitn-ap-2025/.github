@@ -24,4 +24,4 @@ About how to use Git & Github:
 
 To join this orgnization, please use the inviter:
 
-- *pending*
+- [API: Inviter](https://github.com/unitn-ap-2025/api?tab=readme-ov-file#inviter)
